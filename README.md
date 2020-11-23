@@ -1,29 +1,18 @@
-# projeto_controle
+# CadastroBR
 
-## Project setup
+## Execute o comando para instalar as dependências do projeto
 ```
 npm install
 ```
 
-### Compiles and hot-reloads for development
+### Execute o comando para iniciar o servidor de desenvolvimento
 ```
 npm run serve
 ```
 
-### Compiles and minifies for production
+### Execute o comando abaixo para gerar uma build para que seja utilizado em produção
 ```
 npm run build
 ```
-
-### Run your tests
-```
-npm run test
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
